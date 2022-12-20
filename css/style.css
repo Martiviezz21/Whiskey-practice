@@ -4,14 +4,10 @@ ody {
 
 /* Containers */
 
-.container-wrapper {}
-
 .container-wrapper--red {
     background-color: #f05f40;
     color: white;
 }
-
-.alert-container {}
 
 .callout-container {
     height: 100vh;
